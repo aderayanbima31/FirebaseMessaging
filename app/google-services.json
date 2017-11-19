@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "962975344539",
+    "firebase_url": "https://iak-advance-learn.firebaseio.com",
+    "project_id": "iak-advance-learn",
+    "storage_bucket": "iak-advance-learn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962975344539:android:4cddaead7f0a7095",
+        "android_client_info": {
+          "package_name": "com.aderayanbima.iakadvance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "962975344539-tm9ms0toifcvjnvvqnsgqdm2bkcdmfi4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aderayanbima.iakadvance",
+            "certificate_hash": "93c4a94bfb4a2be6e90eddbd63e8ac9ce7b811a0"
+          }
+        },
+        {
+          "client_id": "962975344539-16c8rk0incr3dbuf7ppqbmcso54kjues.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALX_nbDYn9L330jc_cHaGWAcqkO3CK0a4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "962975344539-16c8rk0incr3dbuf7ppqbmcso54kjues.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
